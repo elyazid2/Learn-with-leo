@@ -1,4 +1,4 @@
-# Harness — a local-first learning workspace
+# Harness — a local-first learning workspace for sedrhalistani students
 
 Harness is a mobile-first learning workspace built around **Leo**, an AI tutor that works *with* your own materials instead of replacing them. You create a project for anything you want to learn, drop in PDFs, audio, video, images and notes, and chat with Leo. Leo places you at the right level, teaches, quizzes you, and keeps a living map of what you know.
 
